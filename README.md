@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Euan Lewis</h1>
 <h3 align="center">An aspiring software developer based in London. Welcome to my Github profile.</h3>
 
-- 🔭 I’m currently working on **a file based router applicaiton**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **AWS**
 
